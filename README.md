@@ -5,3 +5,10 @@
 ### 1. Мото-погоня
 Файл: [motorbike.ai](motorbike.ai)
 ![Мото-погоня](motorbike.png)
+
+### 2. Чкаловский
+Файл: [loko1.eps] (loko1.eps)
+![Чкаловский вариант 1](loko1.png)
+
+Файл: [loko2.eps] (loko2.eps)
+![Чкаловский вариант 2](loko2.png)
